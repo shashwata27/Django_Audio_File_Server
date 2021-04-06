@@ -9,5 +9,5 @@
 - python manage.py runserver
 
 
-Superuser : admin
+Superuser : admin<br>
 Password  : admin
